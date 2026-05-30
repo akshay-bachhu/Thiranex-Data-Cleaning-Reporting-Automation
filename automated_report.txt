@@ -1,0 +1,31 @@
+===============================================================================================
+DATA CLEANING & AUTOMATED REPORTING SYSTEM
+Thiranex Internship - Task 4
+===============================================================================================
+Report Generated: 2026-05-30 09:28:16
+
+RAW DATA QUALITY ASSESSMENT
+-----------------------------------------------------------------------------------------------
+Initial Records: 320
+Issues Found:
+  - Missing Values (Quantity): 15
+  - Missing Values (Price): 10
+  - Missing Values (Region): 10
+  - Duplicate Records: 20
+  - Data Anomalies: 2
+
+CLEANING PROCESS COMPLETED
+-----------------------------------------------------------------------------------------------
+Final Records: 298
+Data Integrity Score: 100%
+Records Removed: 22
+
+KEY METRICS
+-----------------------------------------------------------------------------------------------
+Total Revenue: Rs 1,125,886,008
+Average Transaction: Rs 3,778,141
+Total Units Sold: 14,402
+Number of Products: 7
+Number of Regions: 6
+
+===============================================================================================
